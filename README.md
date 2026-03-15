@@ -136,7 +136,7 @@ NODE_ENV=development
 # Database Configuration
 MONGODB_URI=mongodb://localhost:27017/car-rental
 # For MongoDB Atlas use:
-# MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/car-rental
+
 
 # JWT Configuration
 JWT_SECRET=your-super-secret-jwt-key-change-this-in-production
